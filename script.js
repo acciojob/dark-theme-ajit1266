@@ -5,4 +5,3 @@ document.querySelector('#app').classList.remove("day");
 document.querySelector('#swap').classList.add("button_night");
 document.querySelector('#app').classList.add("night");
 }
-document.querySelector('#swap').addEventListener('click', swapTheme());
